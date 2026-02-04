@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=250&section=header&text=XEGARE&fontSize=70&fontAlignY=30&animation=fadeIn&fontColor=FFFFFF&desc=C%2B%2B%20Developer%20%7C%20Reverse%20Engineer&descSize=25&descAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=XEGARE&fontSize=70&fontAlignY=30&animation=fadeIn&fontColor=FFFFFF&desc=C%2B%2B%20Developer%20%7C%20Reverse%20Engineer&descSize=25&descAlignY=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">📫 Contacts</h3>
+<h3 align="center" style="font-size: 22px;">📫 Contacts</h3>
 
 <p align="center">
   <a href="https://t.me/xegare">
